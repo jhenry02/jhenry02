@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhenry02
-- 👀 I’m interested in Software Development & Engineering
+- 👀 I’m interested in Software Development & Engineering as well as anything Computing Related
 - 🌱 I’m currently learning how to master Computer Science fundamentals including Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on any Open Source projects
 - 📫 How to reach me : LinkedIn: Joshua Henry
